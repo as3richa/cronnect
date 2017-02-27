@@ -2,5 +2,5 @@
 /lib/
 /bin/
 /.shards/
-cronnect
-public/scripts.js
+/cronnect
+/public/scripts.js
